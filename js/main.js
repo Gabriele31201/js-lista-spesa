@@ -1,13 +1,11 @@
-let arrayList = [];
+let arrayList = ["burro", "uova", "pane"];
 
-let addShoppingList = prompt ("Inserisci i prodotti della tua lista:");
 
-for(let i = 0; i > addShoppingList; i++) {
+
+for(let i = 0; i < arrayList.lenght; i++) {
+
    
- 
+ }
 
 
-}
-
-
-console.log(addShoppingList)
+console.log(arrayList)
